@@ -18,3 +18,5 @@ description: Obfuscate content (usually email addresses) to prevent screenscrapi
 # output appears as heisenberg@example.com
 he&#x69;se&#x6e;&#x62;&#x65;&#114;&#103;@&#101;&#120;a&#109;&#x70;&#x6c;&#x65;&#x2e;c&#x6f;&#109;
 ```
+
+Note: This won't appear in your browser inspector, but you can see the output using `view-source:`.
